@@ -4,5 +4,5 @@ Public keys
 License
 -------
 
-Copyright (C) 2017 Danil Kutkevich <danil@kutkevich.org>  
+Copyright (C) 2018 Danil Kutkevich <danil@kutkevich.org>  
 See the LICENSE file for license rights and limitations (MIT)
